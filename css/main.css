@@ -2,9 +2,9 @@
   --body-bg-color: #fff;
   --content-bg-color: #f5f5f5;
   --card-bg-color: #f5f5f5;
-  --text-color: #b9bbdf;
+  --text-color: #878ecd;
   --blockquote-color: #666;
-  --link-color: #b9bbdf;
+  --link-color: #878ecd;
   --link-hover-color: #5e63b6;
   --brand-color: #5e63b6;
   --brand-hover-color: #5e63b6;
@@ -620,7 +620,7 @@ pre code {
   width: 100%;
 }
 .post-body .label {
-  color: #b9bbdf;
+  color: #878ecd;
   padding: 0 2px;
 }
 .post-body .label.default {
@@ -1423,7 +1423,7 @@ pre code {
 }
 .sidebar-nav li {
   border-bottom: 1px solid transparent;
-  color: #666;
+  color: #b9bbdf;
   cursor: pointer;
   display: inline-block;
   font-size: 0.875em;
@@ -2712,7 +2712,7 @@ hr {
   vertical-align: middle;
 }
 .links-of-author a::before {
-  background: #54ffd4;
+  background: #ffff5e;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
